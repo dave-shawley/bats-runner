@@ -1,0 +1,13 @@
+{
+  "sources": {
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "sample": {
+      "path": "./test/cookbooks/sample"
+    },
+    "bats-runner": {
+      "path": "."
+    }
+  }
+}

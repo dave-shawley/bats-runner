@@ -1,0 +1,21 @@
+# Runtime cache files
+.kitchen/
+.vagrant/
+metadata.json
+
+# Editor temporary files
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
+# Bundler, Berks, etc.
+bin/*
+.bundle/*
+vendor/
+rspec_guard_result
+
+# Local override files
+.kitchen.local.yml
